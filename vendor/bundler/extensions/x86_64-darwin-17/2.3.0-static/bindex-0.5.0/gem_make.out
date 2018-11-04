@@ -1,0 +1,15 @@
+current directory: /Users/sadahiro/rails_projects/oasis/vendor/bundler/gems/bindex-0.5.0/ext/bindex
+/Users/sadahiro/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20181104-64769-isi2l0.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sadahiro/rails_projects/oasis/vendor/bundler/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/sadahiro/rails_projects/oasis/vendor/bundler/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/sadahiro/rails_projects/oasis/vendor/bundler/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20181104-64769-un4klp/bindex
