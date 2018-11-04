@@ -6,11 +6,6 @@ ruby '2.3.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
 # Use mysql as the database for Active Record
-# Devise
-gem 'devise'
-gem 'omniauth-twitter'
-#Bootstrap
-gem 'bootstrap-sass'
 #mysql2
 gem 'mysql2', '~> 0.4.4'
 # Use Puma as the app server
@@ -32,7 +27,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+# Devise
+gem 'devise'
+gem 'omniauth-twitter'
+#Bootstrap
+gem 'bootstrap-sass'
+gem 'bootstrap', '~> 4.1.1'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
